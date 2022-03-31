@@ -1,0 +1,74 @@
+[
+  {
+    "id": "01",
+    "name": "Biman Bangladesh Airlines",
+    "price": 4500,
+    "model": "Boeing 787-9 DreamLiner",
+    "scale": "1:1200",
+    "img": "https://cdn.jetphotos.com/full/6/11526_1646093446.jpg"
+  },
+  {
+    "id": "02",
+    "name": "Etihad Airways",
+    "price": 4000,
+    "model": "Boeing 787-10 DreamLiner",
+    "scale": "1:1200",
+    "img": "https://cdn.jetphotos.com/full/5/47176_1646505282.jpg"
+  },
+  {
+    "id": "03",
+    "name": "Emirates",
+    "price": 4200,
+    "model": "Airbus A380",
+    "scale": "1:1200",
+    "img": "https://cdn.jetphotos.com/full/5/32820_1646726508.jpg"
+  },
+  {
+    "id": "04",
+    "name": "Qatar Airways",
+    "price": 2800,
+    "model": "Airbus A320",
+    "scale": "1:1200",
+    "img": "https://cdn.jetphotos.com/full/6/17527_1645381588.jpg"
+  },
+  {
+    "id": "05",
+    "name": "Garuda Indonesia",
+    "price": 3500,
+    "model": "Airbus A330",
+    "scale": "1:1200",
+    "img": "https://cdn.jetphotos.com/full/5/91293_1643725202.jpg"
+  },
+  {
+    "id": "06",
+    "name": "Azur Air",
+    "price": 3000,
+    "model": "Boeing 777",
+    "scale": "1:1200",
+    "img": "https://cdn.jetphotos.com/full/6/22523_1646720635.jpg"
+  },
+  {
+    "id": "07",
+    "name": "Regent Airways",
+    "price": 2500,
+    "model": "Boeing 737",
+    "scale": "1:1200",
+    "img": "https://cdn.jetphotos.com/full/5/10618_1620145336.jpg"
+  },
+  {
+    "id": "08",
+    "name": "Turkish Airlines",
+    "price": 3200,
+    "model": "Boeing 777",
+    "scale": "1:1200",
+    "img": "https://cdn.jetphotos.com/full/5/47797_1646726025.jpg"
+  },
+  {
+    "id": "09",
+    "name": "Asiana Airlines",
+    "price": 3700,
+    "model": "Airbus A350",
+    "scale": "1:1200",
+    "img": "https://cdn.jetphotos.com/full/6/35568_1646928757.jpg"
+  }
+]
