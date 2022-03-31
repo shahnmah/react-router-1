@@ -1,0 +1,22 @@
+.product img{
+    height: 250px;
+    /* width: 250px; */
+}
+.product button{
+    padding: 7px 15px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: transparent;
+    border: 2px solid tomato;
+    cursor: pointer;
+    transition: all 200ms ease-in;
+    
+}
+.product button:hover{
+    background-color: tomato;
+    color: #fff;
+    box-shadow: 4px 4px #000;
+}
+.product button:active{
+    box-shadow: 1px 1px 4px #000;
+}
