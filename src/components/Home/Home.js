@@ -7,9 +7,10 @@ import './Home.css'
 
 const Home = () => {
     const [products, setProducts] = useProducts();
-    const [cart, setCart] = useState([]);
+    const [cart, setCart] = useState([])
     const addToCart = item =>{
-        const newCart [...cart, products]
+        const newCart = [...cart, item]
+        setCart(newCart)
     }
     return (
         <div className='home-container'>
@@ -21,7 +22,7 @@ const Home = () => {
                }
             </div>
             <div className="cart-container">
-                <Cart></Cart>
+                <Cart cart={cart}></Cart>
             </div>
         </div>
     );
