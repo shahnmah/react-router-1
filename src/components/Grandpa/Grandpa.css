@@ -1,0 +1,30 @@
+.grand{
+    border:2px solid azure;
+    width: 90%;
+    margin: 15px auto;
+    padding-bottom: 30px;
+}
+.grand button{
+    padding: 7px 15px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: transparent;
+    border: 2px solid azure;
+    cursor: pointer;
+    transition: all 200ms ease-in;  
+}
+.grand button:hover{
+    background-color: azure;
+    box-shadow: 4px 4px #000;
+}
+.grand button:active{
+    box-shadow: 1px 1px 4px #000;
+}
+.grandpa{
+    display: flex;
+    gap: 15px;
+}
+.grandpa div{
+    border:2px solid azure;
+    width: 100%;
+}

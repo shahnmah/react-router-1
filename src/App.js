@@ -1,5 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
+import Grandpa from './components/Grandpa/Grandpa';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
 import NotFound from './components/NotFound/NotFound';
@@ -14,6 +15,7 @@ function App() {
         <Route path='/home' element={<Home></Home>}></Route>
         <Route path='/orderReview' element={<OrderReview></OrderReview>}></Route>
         <Route path='/orderreview' element={<OrderReview></OrderReview>}></Route>
+        <Route path='/grandpa' element={<Grandpa></Grandpa>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
     </div>
